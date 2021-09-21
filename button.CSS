@@ -1,0 +1,48 @@
+button{
+    background-color: #e49319;
+    width: 50%;
+    color: orange;
+    padding: 8px;
+    margin-top: -30px;
+    border: none;
+    cursor: pointer;
+}
+input[type="text"],input[type="password"]{
+    font-size: 15px;
+    width: 80%;
+    margin: 8px 8px;
+    padding: 12px 12px;
+    display: inline-block;
+    border: 1px solid rgb(231, 149, 25);
+}
+<label><INPUT TYPE="text" SIZE="50" placeholder="Search here the item that you want">
+</label><button type="button" value="onclick"> 
+<a href="sell.php">Sale</a></button>
+<button type="button" value="onclick">
+<a href="buy.php">Buy</a></button><br>
+<div class="sb">
+<input type="button">
+<a href="registration.html">SKIP</a></div>table
+{
+   
+    margin-top: -150px; font-family:cursive;
+    font-size: 20px;
+    font-weight: bold;
+}
+h1{
+    margin: 0;
+    margin-top: 250px;
+    margin-left: 80px;
+    text-align: left;
+    padding: 0 0 40;
+    font-family: cursive;
+    font-style:italic;
+    font-size: 55px;
+    color: rgb(250, 127, 12);
+  }
+  p{text-decoration: double;
+    text-align: left;
+    margin-top: 300px;
+    font-family: sans-serif;
+    font-style: oblique;
+  }

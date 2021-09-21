@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+  padding: 0;
+  }
+  body{
+      background-image: url("pexels-sam-lion-5733417.jpg");
+      background-size: contain;
+      background-position: right;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-weight: lighter;
+      height:0vh;
+      background-repeat: no-repeat;
+      background-color: whitesmoke;
+  }
+  h1{
+    margin: 0;
+    margin-top: 250px;
+    margin-left: 80px;
+    text-align: left;
+    padding: 0 0 40;
+    font-family: cursive;
+    font-style:oblique;
+    font-size: 48px;
+    color: rgb(250, 127, 12);
+  }
+  h4{
+    margin:0;
+    margin-top: -50px;
+    margin-left: 200px;
+    text-align: left;
+    font-family: serif;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 20px;
+    color: rgb(20, 114, 117);
+  }
+  p{
+    color: rgb(22, 27, 27);
+    font-weight:lighter;
+    font-size: 19px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 230px;
+  }
+ a{
+   padding: 18px;
+ 
+ } 
+  

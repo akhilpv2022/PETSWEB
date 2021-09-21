@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 20;
+ }
+ body{
+     background-color: rgb(243, 220, 220);
+     background-image:url("pqrs.jpg");
+     background-size:auto;
+     text-align: center;
+ }
+ h1{
+     font-weight: 100;
+     text-align: center;
+     font-family: -apple-system, BlinkMacSystemFont;
+     font-weight: lighter;
+     font-style: oblique;
+     font-size: 43px;
+     margin-top: 20px;
+     color:whitesmoke;
+ }
+  h3{
+     font-weight: bold;
+     text-align: center;
+     font-family: -apple-system, BlinkMacSystemFont;
+     font-style:italic;
+     font-size: 28px;
+     color:rgb(19, 14, 12);
+ }
+ div.upload button[type="submit"]
+ {
+   background-color:rgba(24, 211, 224, 0.966);
+  width: 25%;
+  border-radius: 20px;
+  padding: 5px;
+  border: none;
+  margin-left: 10px;
+  cursor: pointer;
+  font-size: 16px;
+ }
+div.sale{
+ width: 600px;
+ height: 438px;
+ background-color:rgb(0,0,0,0.4);
+ color:white;
+ padding:10px 10px;
+ margin-top: 20px;
+ top: 58%;
+ left: 50%;
+ text-align:center;
+ position: absolute;
+ transform: translate(-53%,-50%);
+}
+label{
+    font-size: 23px;
+    font-family:-apple-system, BlinkMacSystemFont;
+    text-align: center;
+    font-style: oblique;
+    color:white;
+  }
+  .sale input[type="text"],.sale input[type="number"]
+  {
+    border: none;
+    outline: none;
+    background:rgba(0,0,0,0.4);
+    color:white;
+    font-size: 17px;
+    font-style: italic;
+    cursor: pointer;
+    width: 30%;
+    margin-top: 5px;
+    margin-bottom: 16px;
+    padding:12px 12px;
+    height: 24px;
+    border-radius: 42%;
+    text-align: center;
+  }
+  .sale button[type="submit"]
+  {
+    background-color: rgba(24, 211, 224, 0.966);
+    width: 22%;
+    border-radius: 25px;
+    border: none;
+    margin-left: 8px;
+    cursor: pointer;
+    padding: 5px;
+    font-size: 17px;
+    text-align: center;
+    height: 25px;
+  }
+  .center {
+  margin-left: auto;
+  margin-right: auto;
+}
+  

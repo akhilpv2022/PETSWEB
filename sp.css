@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 18;
+ }
+ body
+ {
+    background-color: rgb(200, 224, 222);
+    text-align: center;
+ }
+ h1{
+    font-weight: 100;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont;
+    font-weight: lighter;
+    font-style: oblique;
+    font-size: 45px;
+ }
+ table
+ {
+margin-left: auto;
+  margin-right: auto;
+    border-collapse:collapse;
+   border: ridge;
+ }
+ th{
+    border-style:ridge
+   }
+ td{ 
+     text-align: center;
+     font-family:cursive;
+     font-size: 20px;
+     border-style: ridge;
+ }
+ h3{
+    font-family:BlinkMacSystemFont;
+    font-style: italic;
+    font-size: 20;
+ }
+ a{
+    font-family: cursive;
+    font-size: 22px;
+
+ }
+ 
